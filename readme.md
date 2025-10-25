@@ -1,18 +1,16 @@
-# Mean Flow MNIST 
+# Mean Flow MNIST
 
-这是一个使用 Mean Flow 方法生成 MNIST 的项目。
+This project generates MNIST digits using the Mean Flow method.
 
-## 示例
+## Sample
 
-一步采样效果示例
+One-step sampling result:
 
-![示例图片](./sample/sample.jpg)
+![Sample Image](./sample/sample.jpg)
 
-## 如何使用
+## Usage
 
-### 训练模型
+### Train the Model
 
 ```bash
 python train_mean_flow.py
-
-
